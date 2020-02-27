@@ -1557,7 +1557,6 @@ Rule:
 - DOMAIN-SUFFIX,worldscientific.com,DIRECT
 # > Plex Media Server
 - DOMAIN-SUFFIX,plex.tv,DIRECT
-- DOMAIN-SUFFIX,ip.sb,DIRECT
 # > Other
 - DOMAIN-SUFFIX,cn,DIRECT
 - DOMAIN-SUFFIX,360in.com,DIRECT
